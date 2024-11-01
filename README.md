@@ -5,7 +5,7 @@ I'm Mark, a 15-year-old webdeveloper and editor from Hungary
 ### 🌱 About Me
 - 💻 I have started doing HTML back in 2022
 - 🌍 Based in Hungary 🇭🇺
-- 🎂 15 years old
+- 🎂 15 years old (11th June)
 
 ---
 
