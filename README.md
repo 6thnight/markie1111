@@ -12,8 +12,9 @@ I'm Mark, a 15-year-old webdeveloper and editor from Hungary
 ### 🔗 My stuff
 - 🏠 Main Website: [cshmark.xyz](https://cshmark.xyz)
 - 🌍 Secondary Website: [markie.lol](https://markie.lol)
-- 📂 GitHub Repositories: [github repos](https://github.com/markie1111?tab=repositories)
+- 📂 GitHub Repositories: [github repos](https://github.com/markie1111?tab=repositories) <br>
 
 <p align="center">
+  <a href="https://discord.com/users/1239317024086298678" target="_blank"><img src="https://lanyard.cnrad.dev/api/1239317024086298678"></a> <br>
   <img src="https://komarev.com/ghpvc/?username=markie1111&color=gray">
 </p>
