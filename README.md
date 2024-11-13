@@ -16,5 +16,5 @@ I'm Mark, a 15-year-old webdeveloper and editor from Hungary
 
 <p align="center">
   <a href="https://discord.com/users/1239317024086298678" target="_blank"><img src="https://lanyard.cnrad.dev/api/1239317024086298678"></a> <br>
-  <img src="https://komarev.com/ghpvc/?username=markie1111&color=gray">
+  <img src="https://komarev.com/ghpvc/?username=markie1111&label=Profile%20views&color=grey&style=for-the-badge"/>
 </p>
