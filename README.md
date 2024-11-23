@@ -25,6 +25,15 @@ I'm Mark, a 15-year-old webdeveloper and editor from Hungary
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=markie1111&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=markie1111&theme=midnight-purple&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=markie1111&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
+
+---
+
 <p align="center">
   <a href="https://discord.com/users/1239317024086298678" target="_blank"><img src="https://lanyard.cnrad.dev/api/1239317024086298678"></a> <br>
   <img src="https://komarev.com/ghpvc/?username=markie1111&label=Profile%20views&color=grey&style=for-the-badge"/>
