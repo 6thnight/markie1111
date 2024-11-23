@@ -28,8 +28,6 @@ I'm Mark, a 15-year-old webdeveloper and editor from Hungary
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=markie1111&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=markie1111&theme=midnight-purple&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=markie1111&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
 
 ---
